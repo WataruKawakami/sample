@@ -8,3 +8,4 @@ Created on Tue May 10 13:08:12 2016
 print('テストですー')
 print('編集しました')
 print('ふくだで編集')
+import tkinter
